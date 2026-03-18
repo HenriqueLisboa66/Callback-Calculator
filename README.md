@@ -1,6 +1,6 @@
-===========================================
+=====================================
 📄 DOCUMENTAÇÃO – CALCULADORA COM CALLBACK
-===========================================
+=====================================
 
 📌 DESCRIÇÃO:
 Este código implementa uma calculadora simples em JavaScript utilizando o conceito de callback.
